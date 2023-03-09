@@ -5,24 +5,25 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Leadboard</title>
-  <link rel="icon" href="leaderboard.png">
-  <script defer src="runtime.js"></script>
-  <script defer src="main.js"></script>
+  <title>Leaderboard</title>
 </head>
 
 <body>
-  <h1>
-
-    Leaderboard
-  </h1>
-  <div id="leaderboard">
-    <div id="all-scores">
+  <h1>Leaderboard</h1>
+  <div id="leaderboard-container">
+    <div id="scores-container">
       <div id="header">
         <h2>Recent scores</h2>
-        <button id="refresh">Refresh</button>
+        <button>Refresh</button>
       </div>
-      <ul id="scores"></ul>
+      <ul id="scores">
+        <li>Name: 100</li>
+        <li>Name: 20</li>
+        <li>Name: 50</li>
+        <li>Name: 78</li>
+        <li>Name: 77</li>
+        <li>Name: 1</li>
+      </ul>
     </div>
     <div id="new-score">
       <form>
@@ -33,7 +34,6 @@
       </form>
     </div>
   </div>
-  <div id="toast"></div>
 </body>
 
 </html>
