@@ -166,12 +166,12 @@ body {
     align-items: flex-start;
     margin: auto;
 
-    &>* {
+    & > * {
       width: 50%;
       max-width: 550px;
     }
 
-    #all-scores>ul {
+    #all-scores > ul {
       background-color: #fff;
     }
   }
