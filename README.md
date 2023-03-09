@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="" alt="logo" width="140"  height="auto" style="border-radius:30px;" />
+  <img src="src/images/leaderboards.svg" alt="logo" width="140"  height="auto" style="border-radius:30px;" />
   <br/>
 
   <h3><b>Leaderboard</b></h3>
