@@ -1,4 +1,3 @@
-// const gameID = '4oNvU3Bhjf2ub7nbIBB5';
 const gameID = 'xLw0Vz72706E0aKqRFgf';
 const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api';
 
@@ -31,8 +30,7 @@ const showScores = async () => {
     scoresList.appendChild(li);
   });
 };
-
-module.exports = {
+export {
   addScore,
   showScores,
 };

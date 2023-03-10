@@ -6,5 +6,4 @@ const showToast = (message) => {
     toast.style.display = '';
   }, 3000);
 };
-
-module.exports = showToast;
+export default { showToast };
