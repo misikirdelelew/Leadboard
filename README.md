@@ -188,5 +188,5 @@ Give a ⭐️ if you like this project!
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](https://github.com/misikirdelelew/Leadboard/blob/dev/license.md) licensed.
+This project is [MIT](https://github.com/misikirdelelew/Leadboard/blob/api/license.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
