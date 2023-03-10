@@ -96,7 +96,7 @@ git clone https://github.com/MishDM/Leadboard.git
 ### Usage
 
 - After Cloning this repo to your local machine
-- Open the `index.html` in your browser
+- Open the `dist/index.html` in your browser
 
 
 ### Run tests
